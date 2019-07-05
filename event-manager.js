@@ -1,4 +1,4 @@
-const EVentManager = {
+const EventManager = {
 
     /*
         Map(
